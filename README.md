@@ -38,10 +38,5 @@ or if you were told to hold, but the stock grows exponentially, the method doesn
 
 I would compare 'buy', 'sell', 'hold' to Q5's answer
 
-Q8 
-PICK A STOCK YOU WANT TO CHOOSE TO COMPARE TO OUR STOCKS
-One of our stocks is missing from that list to prevent duplicates 
-'FITB'
-
 ORDER Average Percent Change Per Month DESC 
 It will rank the performance for the year based on percent growth with first having the highest growth. 
