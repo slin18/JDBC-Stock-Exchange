@@ -1,7 +1,6 @@
 # JDBC-Stock-Exchange
 
 Alex Nguyen, Sam Lin
-anguy134@calpoly.edu, slin18@calpoly.edu 
 Our Stocks: 'FITB', 'ROK', 'SCHW', 'XOM'
 
 Instruction: Run the program to receive a prompt to input a ticker for a specific stock. 
