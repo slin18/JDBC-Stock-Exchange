@@ -6,11 +6,11 @@ Our Stocks: 'FITB', 'ROK', 'SCHW', 'XOM'
 Instruction: Run the program to receive a prompt to input a ticker for a specific stock. 
 The program will connect to the NYSE database using your credentials.in. 
 It will then produce an HTML file outside the src folder.
-Note that these credentials.in are specific and unique..
-You must be able to access Cal Poly unix server to access the professor's SQL database
+**Note that these credentials.in are specific and unique 
+You must be able to access Cal Poly unix server to access the professor's SQL database**
 
 Method: 
-Individual
+Individual stocks
 Q4
 Compare the absolute change between average closing value per month 
 
