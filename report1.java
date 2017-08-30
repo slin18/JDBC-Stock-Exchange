@@ -1,6 +1,6 @@
 /*
  * Alex Nguyen, Sam Lin
- * Spring 2017
+ * CP Spring 2017
  * */
 import java.sql.*;
 import java.util.*;
