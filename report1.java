@@ -1,5 +1,6 @@
 /*
  * Alex Nguyen, Sam Lin
+ * Spring 2017
  * */
 import java.sql.*;
 import java.util.*;
@@ -46,7 +47,7 @@ public class report1 {
         try {
           fw = new FileWriter(ticker + ".html");
           bw = new BufferedWriter(fw);
-          String htmlPage = "<html><body style=Õbackground-color:#cccÕ>"
+          String htmlPage = "<html><body style=Ã•background-color:#cccÃ•>"
               + "<b><h1><center><u>NYSE Analytics</u></center>"
               + "</h1></b>";
 
